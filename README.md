@@ -20,6 +20,9 @@
 | 11 | [二进制中1的个数](https://www.nowcoder.com/practice/8ee967e43c2c4ec193b040ea7fbb10b8?tpId=13&tqId=11164&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [C++](./SwordRefersToOffer/11-二进制中1的个数/11.cpp)| 11-Note | Bit Operation |
 | 12 | [数值的整数次方](https://www.nowcoder.com/practice/1a834e5e3e1a4b7ba251417554e07c00?tpId=13&tqId=11165&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [C++](./SwordRefersToOffer/12-数值的整数次方/12.cpp)| 12-Note |  |
 | 13 | [调整数组顺序使得奇数位于偶数前面](https://www.nowcoder.com/practice/beb5aa231adc45b2a5dcc5b62c93f593?tpId=13&tqId=11166&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [C++](./SwordRefersToOffer/13-调整数组顺序使得奇数位于偶数前面/13.cpp)| 13-Note |  |
+| 14 | [链表中倒数第k个结点](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [C++](./SwordRefersToOffer/14-链表中倒数第k个结点/14.cpp)| 14-Note |  |
+| 15 | [反转链表](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [C++](./SwordRefersToOffer/15-反转链表/15.cpp)| 15-Note |  |
+| 16 | [合并两个排序的链表](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tqId=11169&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | [C++](./SwordRefersToOffer/16-合并两个排序的链表/16.cpp)| 16-Note |  |
 
 
 
